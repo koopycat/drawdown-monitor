@@ -28,6 +28,10 @@
     {
       "date": "2026-07-08",
       "price": 11.293999671936035
+    },
+    {
+      "date": "2026-07-09",
+      "price": NaN
     }
   ],
   "velocity_state": null
