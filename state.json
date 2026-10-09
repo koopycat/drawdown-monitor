@@ -6,10 +6,6 @@
   "triggered_thresholds": [],
   "prices": [
     {
-      "date": "2026-09-25",
-      "price": 11.673999786376953
-    },
-    {
       "date": "2026-09-28",
       "price": NaN
     },
@@ -44,6 +40,10 @@
     {
       "date": "2026-10-08",
       "price": NaN
+    },
+    {
+      "date": "2026-10-09",
+      "price": 11.88599967956543
     }
   ],
   "velocity_state": null
